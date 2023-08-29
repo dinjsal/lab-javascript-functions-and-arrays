@@ -10,6 +10,7 @@ function maxOfTwoNumbers(a, b) {
   else if (a === b) {
     return a || b;
   }
+  console.log("hello from my repo")
 }
 
 // Iteration #2: Find longest word
